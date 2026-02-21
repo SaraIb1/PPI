@@ -1,11 +1,11 @@
----
-title: PPI
-authors:
-  - name: Sara Ibrahim Abdelkader
-    affiliation: GU
-    roles: design
-    corresponding: true
-bibliography: references.bib
----
+# Authors
 
-## 
+# Affiliations
+
+# Abstract
+
+# Introduction
+
+# Methods
+
+# References
