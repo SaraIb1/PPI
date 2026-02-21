@@ -1,12 +1,11 @@
 ---
 title: PPI
 authors:
-  - name: Norah Jones
-    affiliation: The University
-    roles: writing
+  - name: Sara Ibrahim Abdelkader
+    affiliation: GU
+    roles: design
     corresponding: true
 bibliography: references.bib
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+## 
