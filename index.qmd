@@ -1,11 +1,113 @@
 # Authors
 
-# Affiliations
+Ashraf Nabhan^1^, Sara Ibrahim Abdelkader^2^
+
+# Affiliation
+
+^1^ Faculty of Medicine, Ain Shams University, Cairo, Egypt.
+
+^2^ Faculty of Medicine, Galala University, Attaka, Suez, Egypt.
+
+\* Corresponding author: Sara Ibrahim Abdelkader. Faculty of Medicine, Galala University, Attaka, Suez, Egypt. Email: [sara.elzeftawy\@gu.edu.eg](mailto:sara.elzeftawy@gu.edu.eg), ORCID: [0009-0002-5877-4722](https://orcid.org/0009-0002-5877-4722)
+
+**Word count:** 1255
 
 # Abstract
 
+**Background:**
+
+Proton pump inhibitors are widely prescribed and frequently self-administered for a broad spectrum of gastrointestinal conditions, representing the first-line pharmacological therapy for several medical disorders. However, prolonged PPI use has been associated with notable adverse effects, including osteoporosis, mineral and micronutrient deficiencies. The potential association between long-term PPI use and the development of gastric cancer has been documented across multiple studies, yielding inconsistent and controversial findings. Accordingly, this study aims to evaluate the association between long-term PPI use and the risk of gastric cancer development.
+
+**Methods:**
+
+This case-control study will be conducted among the Egyptian population, The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll ( ) histopathologically confirmed cases of gastric cancer and ( ) healthy controls, matched in a 1:3 ratio by age and geographical region. Data regarding PPI use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from May 2026 to October 2026.
+
+**Keywords:**
+
+Gastric adenocarcinoma, proton pump inhibitors, gastrointestinal cancer, gastric cancer.
+
+**Trial registration:**
+
+Not registered yet.
+
+**Ethics and dissemination:** 
+
+This study will be approved by the Research Ethics Committee of the faculty of medicine of Ain Shams University.
+
+**Patient and public involvement**
+
+Consent will be obtained directly from the participants.
+
 # Introduction
 
+PPIs are among the most commonly used medications worldwide. Despite their safety, this widespread use has raised concerns about their short- and long-term safety, especially since they are available over the counter and people often self-prescribe them. PPIs decrease acid secretion in the stomach by blocking the H+/K+ ATPase proton pump in gastric parietal cells. As prodrugs, they are absorbed in the proximal small intestine, enter the bloodstream, and activate only in the acidic canaliculi of parietal cells.[@shin2013]
+
+Accordingly, PPIs serve as the first-line choice for many gastrointestinal conditions, including esophagitis, nonerosive reflux disease, peptic ulcer disease, prevention of nonsteroidal anti-inflammatory drug associated ulcers, Zollinger-Ellison syndrome, and functional dyspepsia, they are also used in Helicobacter pylori eradication therapy. Most of these indications could be linked to gastrointestinal cancers as well.[@Strand2017]
+
+Long-term PPI use has been associated with possible adverse effects, including kidney problems, cardiovascular events, fractures, infections, and micronutrient deficiencies[@maideen2023]. PPIs increase systemic gastrin levels, a trophic hormone linked to carcinogenesis, raising concerns about the risk of gastric cancer with prolonged use. However, existing research on this association remains conflicting with insufficient results. [@poly2022]
+
+Gastric cancer remains a major global public health problem. Based on GLOBOCAN 2022 estimates from the International Agency for Research on Cancer (IARC), stomach cancer ranked fifith worldwide in incidence, with around 968,784 new cases and 660,175 deaths in 2022. Its global 5-year prevalence was 1,626,443 cases, reflecting the large number of individuals living with gastric cancer after diagnosis.
+
+In Egypt, GLOBOCAN 2022 estimated 3,285 new gastric cancer cases, 2,469 deaths, and a 5-year prevalence of 5,516 cases. Whether long-term PPI use is associated with an increased risk of gastric cancer must be addressed carefully, as it will have serious future implications.
+
+[Ferlay J, Ervik M, Lam F, Laversanne M, Colombet M, Mery L, Piñeros M, Znaor A, Soerjomataram I, Bray F (2024). Global Cancer Observatory: Cancer Today. Lyon, France: International Agency for Research on Cancer. Available from: https://gco.iarc.who.int/today, accessed \[DD Month YYYY\].](https://gco.iarc.who.int/media/globocan/factsheets/cancers/7-stomach-fact-sheet.pdf?utm_source=chatgpt.com)
+
+<https://gco.iarc.who.int/media/globocan/factsheets/cancers/7-stomach-fact-sheet.pdf?utm_source=chatgpt.com>
+
+Our primary objective is to assess the association between long-term use of PPIs and the development of gastric cancer, taking into consideration the dose, duration of use, age at first use, other comorbidities and multiple possible confounding factors in light of the ongoing debate in the literature and recent findings.
+
+Our null hypotheses; long term use of proton pump inhibitors is not associated with increased risk of gastric cancer.
+
+Our research question; does long term use of PPI associated with increase in the risk of gastric cancer?
+
 # Methods
+
+**Study design and setting**
+
+This case-control study will be conducted at Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University, Cairo, Egypt. with retospectivly collected data on all variables for all cases and controls. As we lack data registries, data on long-term PPI use will be collected for each participant (both cases and controls) between April 2026 and October 2026, through structured interviews with the patient using precise questions, and if possible, verification with relatives to minimize recall bias. All data will be collected using Microsoft Forms. We will also collect data regarding histamine-2-receptor blockers (H2RB) and Potassium-Competitive Acid Blockers (PCABs) and antacids, to ensure the accuracy as its used for the same indications as PPIs, but with a different biological mechanism.
+
+**Participants**
+
+For cases, we will include all adult diagnosed with gastric cancer histopathologically from hospital records and cancer registry in Ain shams University Hospitals and National Cancer Institute. For each case of gastric cancer, 3 control participants from the general populations will be recruited. Controls will be selected from general outpatient clinics in the same hospitals during the same period they should be free of gastric cancer and had no previous history of gastric cancer. The control participants will be matched to the cases regarding age, sex, year, hospital, and will have the same detailed information on all study variables as possible counfounders in cases and controls.
+
+The rationale for the choice of cases and controls is that cases chosen from hospital will be be confirmed pathologically, and selecting controls from the same hospital will ensure they have similar comparable factors.
+
+**Variables**
+
+Our study outcome will be, confirmed gastric cancer specifically adenocarcinoma as it represents the most common types of gastric malignancies. Gastric adenocarcinoma defined as cancer that begins in the glandular tissue (mucus-producing cells), in the innermost lining of the stomach and releases substances in the body, it includes gastric cardia cancer and non-cardia gastric cancer, we will include both classes.
+
+Exposure will be, long term use definition is variable between studies, however. The most common definition was ≥1 year or ≥6 months. Heavy Daily Use (\>180 DDD/year average) which is also a standard research metric used to define "chronic" or "long-term" PPI use. This amount corresponds to an average of at least 0.5 DDD per day, or approximately 6 months of daily medication. We will use hybrid definition to tests multiple angles and for publication strength. First, will be using PPI regularly, for total \>12 months lifetime, from any brand and pattern (omeprazole, pantoprazole, etc; daily OR intermittent), the second will be heavy Daily Use (\>180 DDD/year average). We will not use the cumulative Exposure (Total DDDs). [@Haastrup2021] The same two definitions will be applied to histamine 2 receptor antagonist.
+
+Potential confounders and effect modifiers will have possible effect on our results. The most important will be, H. pylori infection as it has a strong association with gastric cancer, gastroesophageal disease (GERD), Dyspepsia, peptic ulcer disease (PUD), long term medications use as (Nonsteroidal anti-inflammatory drugs; NSAIDs, aspirin, statins, metformin, steriods, other antacids), other possible factors will be age, sex, family history, smoking, socioeconomic status and co-morbidity which will adjusted for by modelling (crude, multivariate and subgroup).
+
+**Data sources and measurement**
+
+Data source and
+
+**Bias**
+
+For selection bias we will not be able to do a population-based sampling for both cases and controls, but we will match the cases and controls for age, sex and location, we will collect the participants from different places as possible and we will run sensitivity analysis with different controls and check odds ratio.
+
+As we don’t have data records, more efforts will be done to avoid recall bias, we will make the interviewers blinded to ask identical and neutral questions, we will choose the control with other chronic illnesses, we will use structures, short and clear questionnaires and we will use PPI photos with different brand names available, we will run sensitivity analysis to assume that higher recall in cases and correct the odds accordingly. Using R BayesSenMC model.
+
+For misclassification bias, we will double check 20% of participants with their relatives and re interview them again. And perform pilot study and we will run Analysis Adjustments.
+
+**Study size**
+
+**Quantitative variables**
+
+For quantitative variables we will categorize long term use of PPI into (6 months-1year, \>1 year,1-3years, \>5 years), age as (\<40, 40-65, \>65 years), BMI as (\<25, 25–29.9, and ≥30 kg/m²). Duration of NSAID and Daily aspirin dose use and other protective medications will also be categorized into groups.
+
+**Statistical methods**
+
+Will will conditional Logistic Regression to assess if gastric cancer risk increased with long term use of PPI compared to non long term users. We will calculate odds ratios (ORs) showing how much more likely cancer is in long term PPI users vs. non-users. We will use 95% CI Range where true OR likely falls, if excludes 1.0, result is "significant."
+
+For each case of gastric cancer, 3 control participants from the general populations will be recruited. We will adjust for age, sex, hospital by matching the control participants by crude model using simple chi square. We will conduct subgroup analysis to stratify by the possible confounders to get separate ORs for each level of a confounder. After adjustment we will use multivariate models to adjust for all the possible confounders. We will use the same exact analysis for histamine-2-receptor blockers (H2RB), Potassium-Competitive Acid Blockers (PCABs) and antacids.
+
+Methods of subgroup analysis will be
+
+We will run sensitivity analysis using R
+
+All data will be analyzed using RStudio
 
 # References
