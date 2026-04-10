@@ -82,7 +82,7 @@ Our study outcome will be, confirmed gastric cancer specifically adenocarcinoma 
 
 Exposure will be, long term use of PPIs. Definition is variable between studies, however. The most common definition was ≥1 year or ≥6 months and Heavy Daily Use (\>180 DDD/year average) which is also a standard research metric used to define chronic or long-term PPI use. This amount corresponds to an average of at least 0.5 DDD per day, or approximately 6 months of daily medication. We will use both definitions to test multiple angles and for publication strength.
 
-First, will be using PPI regularly, for total \>12 months lifetime, from any brand and pattern (omeprazole, pantoprazole, etc; daily OR intermittent), the second will be heavy Daily Use (\>180 DDD/year average). We will not use the cumulative Exposure (Total DDDs). [@Haastrup2021] The same two definitions will be applied to histamine 2 receptor antagonist and the other exposures.
+First, will be using PPIs regularly, for total \>12 months lifetime, from any brand and pattern (omeprazole, pantoprazole, etc; daily OR intermittent), the second will be heavy Daily Use (\>180 DDD/year average). We will not use the cumulative Exposure (Total DDDs). [@Haastrup2021] The same two definitions will be applied to histamine 2 receptor antagonist and the other exposures.
 
 Potential confounders and effect modifiers will have possible effect on our results. The most important will be, H. pylori infection as it has a strong association with gastric cancer, gastroesophageal disease (GERD), Dyspepsia, peptic ulcer disease (PUD), long term medications use as (Nonsteroidal anti-inflammatory drugs; NSAIDs, aspirin, statins, metformin, steriods, other antacids), other possible factors will be age, sex, family history, smoking, socioeconomic status and co-morbidity which will adjusted for by modelling (crude, multivariate and subgroup).
 
@@ -102,11 +102,11 @@ We will double check 20% of participants with their relatives and re interview t
 
 **Quantitative variables**
 
-For quantitative variables we will categorize long term use of PPI into (6 months-1year, \>1 year,1-3years, \>5 years), age as (\<40, 40-65, \>65 years), BMI as (\<25, 25–29.9, and ≥30 kg/m²). Duration of NSAID and Daily aspirin dose use and other protective medications will also be categorized into groups.
+For quantitative variables we will categorize long term use of PPI into (6 months-1year, \>1 year,1-3years, \>5 years), age as (\<40, 40-65, \>65 years), body mass index as (\<25, 25–29.9, and ≥30 kg/m²). Duration of NSAID and daily aspirin dose use and other protective medications will also be categorized into groups.
 
 **Statistical methods**
 
-Will will conditional Logistic Regression to assess if gastric cancer risk increased with long term use of PPI compared to non long term users. We will calculate odds ratios (ORs) showing how much more likely cancer is in long term PPI users vs. non-users. We will use 95% CI Range where true OR likely falls, if excludes 1.0, result is "significant."
+We will use conditional logistic regression to assess if gastric cancer risk increased with long term use of PPIs compared to non long term users. We will calculate odds ratios (ORs) showing how much more likely cancer is in long term PPI users to non-users. We will use 95% CI Range where true OR likely falls, if excludes 1.0, result is "significant."
 
 For each case of gastric cancer, 3 control participants from the general populations will be recruited. We will adjust for age, sex, hospital by matching the control participants by crude model using simple chi square. We will conduct subgroup analysis to stratify by the possible confounders to get separate ORs for each level of a confounder. After adjustment we will use multivariate models to adjust for all the possible confounders. We will use the same exact analysis for histamine-2-receptor blockers (H2RB), Potassium-Competitive Acid Blockers (PCABs) and antacids.
 
@@ -115,5 +115,41 @@ Methods of subgroup analysis will be
 We will run sensitivity analysis using R
 
 All data will be analyzed using RStudio
+
+# Abbreviation
+
+Proton pump inhibitors (PPIs)
+
+Competitive Acid Blockers (PCABs)
+
+Odds ratios (ORs)
+
+Nonsteroidal anti-inflammatory drugs; NSAIDs
+
+# Declarations
+
+## Trial registration:
+
+Not registered yet.
+
+## Ethics and dissemination
+
+This study will be approved by the Research Ethics Committee of the faculty of medicine of Ain Shams University.
+
+## Patient and public involvement
+
+Consent will be obtained directly from the participants.
+
+## Availability of data and materials
+
+The data and materials will be available in supplementary materials.
+
+## Competing interests
+
+The authors declare that they have no competing interests.
+
+## Funding
+
+This study will not receive specific grant from any funding agency in the public, commercial or not-for-profit sectors.
 
 # References
