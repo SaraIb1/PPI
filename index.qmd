@@ -14,7 +14,7 @@ Ashraf Nabhan^1^, Sara Ibrahim Abdelkader^2^
 
 # Abstract
 
-**Background:**
+**Background**
 
 Proton pump inhibitors are widely prescribed and frequently self-administered for a broad spectrum of gastrointestinal conditions, representing the first-line pharmacological therapy for several medical disorders. However, prolonged PPI use has been associated with notable adverse effects, including osteoporosis, mineral and micronutrient deficiencies. The potential association between long-term PPI use and the development of gastric cancer has been documented across multiple studies, yielding inconsistent and controversial findings. Accordingly, this study aims to evaluate the association between long-term PPI use and the risk of gastric cancer development.
 
