@@ -10,7 +10,7 @@ Ashraf Nabhan^1^, Sara Ibrahim Abdelkader^2^
 
 \* Corresponding author: Sara Ibrahim Abdelkader. Faculty of Medicine, Galala University, Attaka, Suez, Egypt. Email: [sara.elzeftawy\@gu.edu.eg](mailto:sara.elzeftawy@gu.edu.eg), ORCID: [0009-0002-5877-4722](https://orcid.org/0009-0002-5877-4722)
 
-**Word count:** 1255
+**Word count:** 1875
 
 # Abstract
 
@@ -20,7 +20,7 @@ Proton pump inhibitors (PPIs) are widely prescribed and frequently self-administ
 
 **Methods:**
 
-This case-control study will be conducted among the Egyptian population, The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll ( ) histopathologically confirmed cases of gastric cancer and ( ) healthy controls, matched in a 1:3 ratio by age and geographical region. Data regarding PPIs use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from May 2026 to October 2026.
+This case-control study will be conducted among the Egyptian population, The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll (247) histopathologically confirmed cases of gastric cancer and (822) controls free of gastric cancer and had no previous history of gastric cancer, matched in a 1:3 ratio by age, sex, hospital. Data regarding PPIs use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from April 2026 to October 2026.
 
 **Keywords:**
 
