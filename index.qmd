@@ -50,7 +50,7 @@ Gastric cancer remains a major global public health problem. Based on GLOBOCAN 2
 
 In Egypt, GLOBOCAN 2022 estimated 3,285 new gastric cancer cases, 2,469 deaths, and a 5-year prevalence of 5,516 cases. Whether long-term PPIs use is associated with an increased risk of gastric cancer must be addressed carefully, as it will have serious future implications.[@ferlay2024]
 
-A recent Nordic study directly contradicts the findings from earlier observational studies, as most of them demonstrated that long-term PPIs use is associated with an increased risk of gastric cancer @Cheung2019. The Nordic study, found no association after proper methodological controls, appearing to address critical limitations that have plagued previous results. This suggests that much of the earlier positive evidence may have been methodologically flawed, as the Nordic study results did not reproduce the false-positive associations found in the earlier literature.\[@Duru2026\]This suggests more complex association than previously thought, involving population differences, methodological issues, or both.
+A recent Nordic study directly contradicts the findings from earlier observational studies, as most of them demonstrated that long-term PPIs use is associated with an increased risk of gastric cancer @Cheung2019. The Nordic study, found no association after proper methodological controls, appearing to address critical limitations that have plagued previous results. This suggests that much of the earlier positive evidence may have been methodologically flawed, as the Nordic study results did not reproduce the false-positive associations found in the earlier literature.[@Duru2026]This suggests more complex association than previously thought, involving population differences, methodological issues, or both.
 
 **Primary objective**
 
@@ -88,7 +88,9 @@ Potential confounders and effect modifiers will have possible effect on our resu
 
 **Data sources and measurement**
 
-Data source and measurement
+Data source for cases and controls will be obtained from hospital patients in Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University, Cairo, Egypt. Between April 2026 and October 2026. Cases are defined as histopathologically confirmed gastric cancer, and controls are defined as general outpatient clinics in the same hospitals during the same period and they should be free of gastric cancer and had no previous history of gastric cancer. For each case of gastric cancer, 3 control participants will be recruited, matched by age, sex, hospital.
+
+Measurements for both cases and controls about use of PPIs will be collected identically through structured interviews with the patient using precise questions, and if possible, verification with relatives to minimize recall bias. All data will be collected using Microsoft Forms. Participants are asked about long term use of PPIs using the same set of questions to ensure consistency. All interviews will be conducted by trained team who are blinded to the participants' case or control status. Whatever could be obtained from medical records about data of cases or controls will be documented.
 
 **Bias**
 
@@ -99,6 +101,8 @@ As we don’t have data records, more efforts will be done to avoid recall bias,
 We will double check 20% of participants with their relatives and re interview them again. And perform pilot study and we will run Analysis Adjustments.
 
 **Study size**
+
+To assess the association between long term use of PPIs and gasteric cancer, a total sample size of (1096) is needed. (247) cases, and (822) controls. This is calculated to detect a 20% difference in risk between groups with 80% power and 95% confidence to verity an odds ratio already of 1-2, we will include 3 controls for each case, the exposure prevalence of long-term PPI-use is 6% (and 2% for H2RB use).
 
 **Quantitative variables**
 
