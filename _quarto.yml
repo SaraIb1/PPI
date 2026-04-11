@@ -15,7 +15,7 @@ format:
 execute:
   freeze: true
 
-title: Gastric carcinoma in long term PPI users
+title: Gastric carcinoma in long term PPIs users - a case control study
 bibliography: references.bib
 csl: vancouver.csl
 
