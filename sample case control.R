@@ -1,0 +1,2 @@
+library(epiR)
+epi.sscc(N = NA, OR=2, p1 = NA, p0=.25, n=NA, power=.8, r = 1,phi.coef = 0, design = 1, sided.test = 2, nfractional = FALSE,conf.level = 0.95, method = "unmatched", fleiss = FALSE)
