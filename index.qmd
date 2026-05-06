@@ -140,7 +140,7 @@ Based on the estimated sample size, data collection and entry should be complete
 
 ### Benefits
 
-The effect of the duration of PPIs use on the risk of gastric cancer should be taken into consideration, as it is commonly used for long durations without a medical prescription. This study will help determine the association, as the current results are insufficient and controversial. This will definitely help in the future in setting a new standard PPI use protocol, or suppressing the false positives present in the existing literature.
+The potenital association between long term use of PPIs and the risk of gastric cancer should be taken into consideration, given how commonly it is used for long duration without a medical supervision. as existing evidance remains limited and controversial, this study will help to determine this association. the findings will definitely help in the development of a new standard PPI use protocol.
 
 # Abbreviation
 
