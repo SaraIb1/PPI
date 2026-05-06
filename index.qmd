@@ -100,7 +100,7 @@ Measurements for both cases and controls about use of PPIs will be collected ide
 
 First, will be using PPIs regularly, for total ≥6 months lifetime, from any brand and pattern (omeprazole, pantoprazole, etc; daily OR intermittent), the second will be heavy Daily Use (\>180 DDD/year average). We will not use the cumulative Exposure (Total DDDs). [@Haastrup2021] The same two definitions will be applied to histamine 2 receptor antagonist and the other exposures.
 
-Participants are asked about long term use of PPIs using the same set of questions to ensure consistency. Interviews with eligible participants will be available face-to-face interview, by telephone or online. All interviews will be conducted by trained team who are blinded to the participants' case or control status. Whatever could be obtained from medical records about data of cases or controls will be documented.
+Participants will be asked about long term use of PPIs using the same set of questions to ensure consistency. Interviews with eligible participants will be available face-to-face interview, by telephone or online. All interviews will be conducted by trained team who are blinded to the participants' case or control status. Whatever could be obtained from medical records about data of cases or controls will be documented.
 
 ### Bias
 
@@ -130,13 +130,13 @@ Based on the estimated sample size, data collection and entry should be complete
 
 -   This is the first study to assess the association between long-term use of proton pump inhibitors (PPIs) and development of gastric cancer in Egypt.
 
--   To address the notable limitation of confounding, a detailed assessment of potential cofounders of the the association between long term use of PPIs and gastric cancer as H.pylori infection, PU, age, sex, other medications.
+-   To address the notable limitation of confounding, a detailed assessment of potential cofounders of the association between long term use of PPIs and gastric cancer as H.pylori infection, PU, age, sex, other medications.
 
 -   Previous studies are showing controversial results.
 
 -   This study is providing critical data to inform future trials to investigate the effect of long term use of PPIs and gastric cancer.
 
--   There are general limitations inherent to most case–control studies, due to lack of data registry and including retrospective reporting of exposures which could be differentially reported by cases and controls (recall bias), but efforts are done to minimize it.
+-   There are general limitations inherent to most case–control studies, due to lack of data registry and including retrospective reporting of exposures which could be differentially reported by cases and controls (recall bias), but efforts will be done to minimize it.
 
 ### Benefits
 
@@ -176,6 +176,6 @@ The authors declare that they have no competing interests.
 
 ## Funding
 
-This study will not receive specific grant from any funding agency in the public, commercial or not-for-profit sectors. (yet)
+This study will not receive grant from any funding agency in the public, commercial or not-for-profit sectors. (yet)
 
 # References
