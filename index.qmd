@@ -122,6 +122,10 @@ All data will be analyzed using R. We will use conditional logistic regression t
 
 For each case of gastric cancer, 3 control participants from the general population will be recruited. We will adjust for age, sex, hospital by matching the control participants by crude model using simple chi square. We will conduct subgroup analysis to stratify by the possible confounders to get separate ORs for each level of a confounder. After adjustment we will use multivariate models to adjust for all the possible confounders. We will use the same exact analysis for the other exposures.
 
+### Data collection form
+
+<https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=huVuc4OexEOFsGNo_KBrRXptA5ktxHtIsis4O-bqGq5URE5CRVNPN1VVU1ZGTkgyMlJJU040WkhPRy4u&branchingelementid=r3b0aa32345474097baa3fbff9c86f1f4>
+
 ### Timeline
 
 Based on the estimated sample size, data collection and entry should be completed within 2-3 months. Data editing and analyses should be completed by another 2-3 months following award. A final draft manuscript will be delivered within six months total.
