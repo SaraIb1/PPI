@@ -20,7 +20,7 @@ Proton pump inhibitors (PPIs) are widely prescribed and frequently self-administ
 
 **Methods:**
 
-This case-control study will be conducted among the Egyptian population, The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll (98) histopathologically confirmed cases of gastric cancer and (294) controls free of gastric cancer and had no previous history of gastric cancer, matched in a 1:3 ratio by age, sex, hospital. Data regarding PPIs use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from June 2026 to August 2026.
+This is a case-control study to evaluate the association between long-term PPI use and the risk of gastric cancer development. The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll (98) histopathologically confirmed cases of gastric cancer and (294) controls free of gastric cancer and had no previous history of gastric cancer, matched in a 1:3 ratio by age, sex, hospital. Data regarding PPIs use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from June 2026 to August 2026.
 
 **Keywords:**
 
@@ -37,6 +37,16 @@ Not registered yet.
 **Patient and public involvement**
 
 Consent will be obtained directly from all participants.
+
+### Strengths and limitations of this study
+
+-   This is the first study to assess the association between long-term use of proton pump inhibitors (PPIs) and the development of gastric cancer in Egypt.
+
+-   To address the limitation of confounding, a detailed evaluation of potential confounders will be conducted, including H. pylori infection, peptic ulcer disease, age, sex, and concurrent medications.
+
+-   Previous studies have shown controversial findings, making this research essential in providing critical data to guide future trials investigating the long-term effects of PPI use on gastric cancer risk.
+
+-   While limitations inherent to case-control studies apply, such as recall bias due to retrospective reporting of exposures, all efforts will be made to minimize their impact.
 
 # Introduction
 
@@ -130,21 +140,11 @@ For each case of gastric cancer, 3 control participants from the general populat
 
 Based on the estimated sample size, data collection and entry should be completed within 2-3 months. Data editing and analyses should be completed by another 2-3 months following award. A final draft manuscript will be delivered within six months total.
 
-### Strengths and limitations of this study
-
--   This is the first study to assess the association between long-term use of proton pump inhibitors (PPIs) and development of gastric cancer in Egypt.
-
--   To address the notable limitation of confounding, a detailed assessment of potential cofounders of the association between long term use of PPIs and gastric cancer as H.pylori infection, PU, age, sex, other medications.
-
--   Previous studies are showing controversial results.
-
--   This study is providing critical data to inform future trials to investigate the effect of long term use of PPIs and gastric cancer.
-
--   There are general limitations inherent to most case–control studies, due to lack of data registry and including retrospective reporting of exposures which could be differentially reported by cases and controls (recall bias), but efforts will be done to minimize it.
+The team will include an expert statistician, a gastrointestinal (GIT) specialist, and a family medicine specialist, with medical students working hand in hand with the specialists throughout the project.
 
 ### Benefits
 
-The potenital association between long term use of PPIs and the risk of gastric cancer should be taken into consideration, given how commonly it is used for long duration without a medical supervision. as existing evidance remains limited and controversial, this study will help to determine this association. the findings will definitely help in the development of a new standard PPI use protocol.
+The potential association between long-term use of PPIs and the risk of gastric cancer warrants serious consideration, particularly given how widely PPIs are used for extended periods without medical supervision. As existing evidence remains limited and controversial, this study aims to clarify and determine the nature of this association, with findings expected to contribute to the development of a standardized PPI use protocol, guiding safer and more informed clinical practice.
 
 # Abbreviation
 
