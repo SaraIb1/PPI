@@ -72,13 +72,13 @@ Long term use of Proton pump inhibitors is not associated with increased risk of
 
 **Research question**
 
-Does long term use of Proton pump inhibitors associated with increase in the risk of gastric cancer?
+Is long-term use of proton pump inhibitors (PPIs) associated with an increased risk of gastric cancer?
 
 # Methods and analysis
 
 ### Study design and setting
 
-This case-control study will be conducted at Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University, Cairo, Egypt. with retospectivly collected data on all variables for all cases and controls. As we lack data registries, data on long-term PPIs use will be collected for each participant (both cases and controls) between June 2026 and August 2026, through structured interviews with the participants by face-to-face or telephone, using precise questions by a trained research team, and if possible, verification with relatives to minimize recall bias. All data will be collected using Microsoft Forms. We will also collect data regarding histamine-2-receptor blockers (H2RB) and Potassium-Competitive Acid Blockers (PCABs) and antacids, to ensure the accuracy of results as they are used for the same indications as PPIs, but with a different biological mechanism.
+This case-control study will be conducted at Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University, Cairo, Egypt, with retrospectively collected data on all variables for all cases and controls. As we lack data registries, data on long-term PPI use will be collected for each participant (both cases and controls) between June 2026 and August 2026 through structured interviews conducted face-to-face or by telephone, using precise questions asked by a trained research team, and verified with relatives where possible to minimize recall bias. All data will be collected using Microsoft Forms. Data regarding histamine-2-receptor blockers (H2RBs) and potassium-competitive acid blockers (PCABs) and antacids will also be collected to ensure the accuracy of results, as these medications are used for the same indications as PPI but through different biological mechanisms.
 
 ### Participants
 
@@ -86,7 +86,7 @@ This case-control study will be conducted at Ain Shams University Hospitals and 
 
 We will include all adult diagnosed with histopathologically confirmed gastric cancer from hospital records and cancer registry in Ain shams University Hospitals and National Cancer Institute. We will exclude participants aged \<18 years. Controls will be selected from general outpatient clinics in the same hospitals during the same period and they should be free of gastric cancer and had no previous history of gastric cancer.
 
-The rationale for selecting cases and controls is that cases chosen from hospital will be be confirmed pathologically, and selecting controls from the same hospital will ensure they have similar comparable factors.
+Cases will be recruited from the hospital to ensure pathological confirmation of diagnosis, while controls will be selected from the same setting to ensure comparability with respect to relevant baseline characteristics.
 
 **Ratio and matching**
 
@@ -96,39 +96,39 @@ The control participants will be matched to the cases regarding age, sex, year, 
 
 ### Variables
 
-Our study outcome will be, confirmed gastric cancer specifically adenocarcinoma as it represents the most common types of gastric malignancies. Gastric adenocarcinoma defined as cancer that begins in the glandular tissue (mucus-producing cells), in the innermost lining of the stomach and releases substances in the body, it includes gastric cardia cancer and non-cardia gastric cancer, we will include both cardia and non-cardia gastric cancer.
-
-Exposure will be, long term use of PPIs. Definition is variable between studies, however. The most common two definition was using PPIs ≥6 months or ≥1 year, and Heavy Daily Use (\>180 DDD/year average) which is also a standard research metric used to define chronic or long-term PPI use. This amount corresponds to an average of at least 0.5 DDD per day, or approximately 6 months of daily medication. We will use both definitions to test multiple angles and for publication strength.
+Exposure will be, long term use of PPIs. Definition is variable between studies, however. The most common two definition was using PPI ≥6 months or ≥1 year, and Heavy Daily Use (\>180 DDD/year average) which is also a standard research metric used to define chronic or long-term PPI use. This amount corresponds to an average of at least 0.5 DDD per day, or approximately 6 months of daily medication. We will use both definitions to test multiple angles and for publication strength.
 
 Potential confounders and effect modifiers will have possible effect on our results. The most important will be, Helicobacter pylori (H. pylori) infection as it has a strong association with gastric cancer, gastroesophageal disease (GERD), Dyspepsia, peptic ulcer disease (PUD), long term medications use as (Nonsteroidal anti-inflammatory drugs; NSAIDs, aspirin, statins, metformin, steriods, other antacids), other possible factors will be age, sex, family history, smoking, socioeconomic status and co-morbidity which will be adjusted for by modelling (crude, multivariate and subgroup).
 
 ### Data collection and measurement
 
-Data source for cases and controls will be obtained from hospital patients in Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University, Cairo, Egypt. Between June 2026 and August 2026. We will expand our recruitment from hospitals later on if possible. Cases are defined as participants with histopathologically confirmed gastric cancer, and controls are participants from general outpatient clinics in the same hospitals during the same period and they should be free of gastric cancer and had no previous history of gastric cancer. For each case of gastric cancer, 3 control participants will be recruited, matched by age, sex, hospital.
+Data source for cases and controls will be obtained from hospital patients in Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University, Cairo, Egypt. Between June 2026 and August 2026. We will expand our recruitment from hospitals later on if possible. Cases are defined as participants with histopathologically confirmed gastric cancer, specifically adenocarcinoma as it represents the most common types of gastric malignancies. Gastric adenocarcinoma defined as cancer that begins in the glandular tissue (mucus-producing cells), in the innermost lining of the stomach and releases substances in the body, it includes gastric cardia cancer and non-cardia gastric cancer, we will include both cardia and non-cardia gastric cancer. Controls are participants from general outpatient clinics in the same hospitals during the same period and they should be free of gastric cancer and had no previous history of gastric cancer. For each case of gastric cancer, 3 control participants will be recruited, matched by age, sex, hospital.
 
-Measurements for both cases and controls about use of PPIs will be collected identically through structured interviews with the patient using precise questions, and if possible, verification with relatives to minimize recall bias. All data will be collected using Microsoft Forms.
+Measurements for both cases and controls about use of PPI will be collected identically through structured interviews with the patient using precise questions, and if possible, verification with relatives to minimize recall bias. All data will be collected using Microsoft Forms.
 
-First, will be using PPIs regularly, for total ≥6 months lifetime, from any brand and pattern (omeprazole, pantoprazole, etc; daily OR intermittent), the second will be heavy Daily Use (\>180 DDD/year average). We will not use the cumulative Exposure (Total DDDs). [@Haastrup2021] The same two definitions will be applied to histamine 2 receptor antagonist and the other exposures.
+First, will be using PPI regularly, for total ≥6 months lifetime, from any brand and pattern (omeprazole, pantoprazole, etc; daily OR intermittent), the second will be heavy Daily Use (\>180 DDD/year average). We will not use the cumulative Exposure (Total DDDs). [@Haastrup2021] The same two definitions will be applied to histamine 2 receptor antagonist and the other exposures.
 
-Participants will be asked about long term use of PPIs using the same set of questions to ensure consistency. Interviews with eligible participants will be available face-to-face interview, by telephone or online. All interviews will be conducted by trained team who are blinded to the participants' case or control status. Whatever could be obtained from medical records about data of cases or controls will be documented.
+Participants will be asked about long term use of PPI using the same set of questions to ensure consistency. Interviews with eligible participants will be available face-to-face interview, by telephone or online. All interviews will be conducted by trained team who are blinded to the participants' case or control status. Whatever could be obtained from medical records about data of cases or controls will be documented.
 
 ### Bias
 
-For selection bias we will not be able to do a population-based sampling. However, we will match the cases and controls for age, sex and location, we will collect the participants from different places as possible and we will run sensitivity analysis with different controls and check odds ratio.
+Regarding selection bias, population-based sampling will not be feasible in this study; however, several measures will be implemented to mitigate this limitation. Cases and controls will be matched for age, sex, and geographic location. Participants will be recruited from multiple sites, and sensitivity analyses will be conducted using different control groups to assess the stability of the odds ratios.
 
-As we don’t have data records, more efforts will be done to avoid recall bias, we will make the interviewers blinded to ask identical and neutral questions, we will choose the control with other chronic illnesses, we will use structured, short and clear questionnaires, we will use PPIs photos with different brand names available, we will run sensitivity analysis using R BayesSenMC model to assume that higher recall in cases and correct the odds accordingly. We will double check 20% of participants with their relatives and re interview them again, we will perform pilot study and will run analysis adjustments.
+Regarding recall bias, the absence of data registries necessitates the efforts to minimize its impact. Interviewers will be blinded to participants' case-control status and will ask identical, neutral, and structured questions. Controls will be selected from individuals with other chronic illnesses to ensure a comparable level of health-related recall. Short, clear, and validated questionnaires will be used, supplemented by visual aids such as photographs of PPI across different available brand names to improve medication recognition. A sensitivity analysis will be conducted using the R package BayesSenMC to assume that higher recall in cases and correct the odds ratios accordingly.
+
+To further ensure data quality, 20% of participants will be cross-verified with relatives and re-interviewed. Additionally, a pilot study will be conducted prior to full data collection, and appropriate statistical adjustments will be applied in the final analysis.
 
 ### Sample size and Statistical power
 
-To assess the association between long term use of PPIs and gasteric cancer, sample size are calculated using R. A total sample size of (392) is needed. (98) cases, and (294) controls. This is calculated to detect a 20% difference in risk between groups with 80% power and 95% CI, to detect an odds ratio of 2, we will include 3 controls for each case, the exposure prevalence of long-term PPI-use is 25% (and % for H2RB use).
+To assess the association between long-term PPI use and gastric cancer, the sample size was calculated using R. A total sample size of 392 participants is required, 98 cases and 294 controls (1:3 ratio). This was calculated to detect an odds ratio of 2, assuming an exposure prevalence of long-term PPI use of 25% among controls, with 80% statistical power and a 95% confidence interval. Three controls will be matched to each case to improve statistical efficiency.
 
 ### Quantitative variables
 
-For quantitative variables long-term users of PPIs will be stratified into ( ≥6 months, 1-3 years, ≥3 years, ≥5 years ), age as (\<44, 44-60, 60-75 years, \>75), body mass index as (\<25, 25–29.9, and ≥30 kg/m²). Duration of NSAID and daily aspirin dose use and other protective medications will also be categorized into groups.
+For quantitative variables long-term users of PPI will be stratified into ( ≥6 months, 1-3 years, ≥3 years, ≥5 years ), age as (\<44, 44-60, 60-75 years, \>75), body mass index as (\<25, 25–29.9, and ≥30 kg/m²). Duration of NSAID and daily aspirin dose use and other protective medications will also be categorized into groups.
 
 ### Statistical methods
 
-All data will be analyzed using R. We will use conditional logistic regression to assess if gastric cancer risk increased with long term use of PPIs compared to non long term users. We will calculate odds ratios (ORs) showing how much more likely cancer is in long term PPI users to non-users. We will use 95% CI range where true OR likely falls, if excludes 1.0, result is "significant."
+All data will be analyzed using R. We will use conditional logistic regression to assess if gastric cancer risk increased with long term use of PPI compared to non long term users. We will calculate odds ratios (ORs) showing how much more likely cancer is in long term PPI users to non-users. We will use 95% CI range where true OR likely falls, if excludes 1.0, result is "significant."
 
 For each case of gastric cancer, 3 control participants from the general population will be recruited. We will adjust for age, sex, hospital by matching the control participants by crude model using simple chi square. We will conduct subgroup analysis to stratify by the possible confounders to get separate ORs for each level of a confounder. After adjustment we will use multivariate models to adjust for all the possible confounders. We will use the same exact analysis for the other exposures.
 
@@ -144,7 +144,7 @@ The team will include an expert statistician, a gastrointestinal (GIT) specialis
 
 ### Benefits
 
-The potential association between long-term use of PPIs and the risk of gastric cancer warrants serious consideration, particularly given how widely PPIs are used for extended periods without medical supervision. As existing evidence remains limited and controversial, this study aims to clarify and determine the nature of this association, with findings expected to contribute to the development of a standardized PPI use protocol, guiding safer and more informed clinical practice.
+The potential association between long-term PPI use and the risk of gastric cancer warrants serious consideration, particularly given the widespread use of PPI over extended periods, often without adequate medical supervision. As the existing evidence remains limited and inconclusive, this study aims to clarify the nature of this association. The findings are expected to inform the development of a standardized PPI prescribing protocol, ultimately guiding safer and more evidence-based clinical practice.
 
 # Abbreviation
 
