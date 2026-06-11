@@ -20,7 +20,7 @@ Proton pump inhibitors (PPIs) are widely prescribed and frequently self-administ
 
 **Methods:**
 
-This is a case-control study to evaluate the association between long-term PPI use and the risk of gastric cancer development. The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll (98) histopathologically confirmed cases of gastric cancer and (294) controls free of gastric cancer and had no previous history of gastric cancer, matched in a 1:3 ratio by age, sex, hospital. Data regarding PPI use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from June 2026 to August 2026.
+This is a case-control study to evaluate the association between long-term PPI use and the risk of gastric cancer development. The primary recruitment sites will include Ain Shams University Hospitals and the National Cancer Institute (NCI) at Cairo University. The study will enroll (98) histopathologically confirmed cases of gastric cancer and (294) controls free of, and had no previous history gastric cancer, matched in 1:3 ratio by age, sex, hospital. Data regarding PPI use, along with relevant variables, will be collected through electronic Microsoft (MS) forms via structured interviews. The data collection will extend from June 2026 to August 2026.
 
 **Keywords:**
 
@@ -140,7 +140,7 @@ For each case of gastric cancer, 3 control participants from the general populat
 
 Based on the estimated sample size, data collection and entry should be completed within two to three months. Data editing and analyses should be completed by another two to three months following award. A final draft manuscript will be delivered within six months total.
 
-The team will include an expert statistician, a gastrointestinal (GIT) specialist, and a family medicine specialist, with medical students working hand in hand with the specialists throughout the project.
+The team will include an expert statistician, a gastrointestinal specialist, and a family medicine specialist, with medical students working hand in hand with the specialists throughout the project.
 
 ### Benefits
 
